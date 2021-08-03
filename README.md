@@ -1,5 +1,5 @@
 # covid19-crime-rate-portfolio
-The Impact of COVID-19 on Canadian Crime Rates (Python)
+## The Impact of COVID-19 on Canadian Crime Rates (Python)
 
 Objective: Analyze the impacts of the Coronavirus outbreak on Canadian Crime in 2020 and future
 trajectories.
